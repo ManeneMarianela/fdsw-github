@@ -1,12 +1,16 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+.navbar-brand {
+font-style:oblique;
+}
+
 
 /* Hero Section */
 
 #Hero-Section {
   background-image: url ("../img/ParqueLota.jpg")
-  background-repeat: no-repeat;
+  background-repeat no-repeat;
   background-size: cover;
   background-position: left;
 }
